@@ -1,4 +1,5 @@
 import java.util.*;
+import java.util.random;
 
 public class Zombie extends Unit {
 	Random r = new Random();
